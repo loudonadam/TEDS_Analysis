@@ -5,6 +5,9 @@ Using publicly available data from treatment centers around the US. This data is
 
 We will use this data in order to determine which factors best predict patient outcomes. If we can understand which factors (i.e. marital status, race, drug type, etc), we may be able to predict which patients would benefit most from additional attention.
 
+## Resources
+[Dataset link](https://www.datafiles.samhsa.gov/dataset/teds-d-2019-ds0001-teds-d-2019-ds0001)
+
 ## Team Members
 Adam Loudon, Scott Yoder, Colin Donavan, Kitt Franse
 
