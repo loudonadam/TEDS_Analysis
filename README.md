@@ -19,7 +19,7 @@ We intend to use python and pandas to wrangle, clean, and organize the data. Fur
 
 ## Results
 ### Data Cleaning
-![Alt Text](Resources/Images/Data_cleaning.png)
+![Alt Text](Resources/Images/Data_Cleaning.png)
 
 ### Initial Random Forest Classifier Model results
 ![Alt Text](Resources/Images/Model_result_1.png)
