@@ -7,13 +7,14 @@ We will use this data in order to determine which factors best predict patient o
 
 ## Resources
 [Dataset link](https://www.datafiles.samhsa.gov/dataset/teds-d-2019-ds0001-teds-d-2019-ds0001)
+
 [Codebook link](https://github.com/loudonadam/TEDS_Analysis/blob/scott/Resources/TEDS-D-2019-DS0001-info-codebook_V1.docx)
 
 ## Team Members
 Adam Loudon, Scott Yoder, Colin Donavan, Kitt Franse
 
 ## Tools and Workflow
-Python and pandas is used to wrangle, clean, and organize the data. Further, scikitlearn and tensorflow are used to generate machine learning models to predict successful treatment outcomes. Additionally the team hopes to generate an analysis using R as well.  The cleaned dataframe (using TEDS_data_cleaning.ipynb) is optionally exported to a .csv file or to a SQL database for storage.  The machine learning model code (TEDS_ml_model.ipynb) optionally reads the cleaned data from a .csv or from the SQL database.  The model results are optionally exported to a .csv file or to the SQL database.  Finally, Tableau is used to create impactful and understandable presentations of the data.  
+Python and pandas are used to wrangle, clean, and organize the data. Further, scikitlearn and tensorflow are used to generate machine learning models to predict successful treatment outcomes. Additionally the team hopes to generate an analysis using R as well.  The cleaned dataframe (using TEDS_data_cleaning.ipynb) is optionally exported to a .csv file or to a SQL database for storage.  The machine learning model code (TEDS_ml_model.ipynb) optionally reads the cleaned data from the .csv or from the SQL database.  The model results are optionally exported to a .csv file or to the SQL database.  Finally, Tableau is used to create impactful and understandable presentations of the data.  
 
 ![Alt Text](Resources/Images/TEDS_Analysis_Workflow.png)
 
