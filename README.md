@@ -35,6 +35,10 @@ The TARGET column "SUCCESSFUL" is created based on the REASONS column. A SUCCESS
 
 ![Alt Text](Resources/Images/REASON_feature.png)
 
+Cleaned dataframe exported to SQL database
+
+![Alt Text](Resources/Images/cleaned_data_TEDS_DB.png)
+
 ### Initial Neural Network Model
 
 - NN model creation
@@ -54,6 +58,8 @@ The TARGET column "SUCCESSFUL" is created based on the REASONS column. A SUCCESS
 - RF model feature importances
 
 ![Alt Text](Resources/Images/Feature_importance_pie.png)
+
+![Alt Text](Resources/Images/RFModel_feature_importance_TEDS_DB.png)
 
 
 
