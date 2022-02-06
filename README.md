@@ -54,7 +54,8 @@ The TARGET column "SUCCESSFUL" is created based on the REASONS column. A SUCCESS
 
 ![Alt Text](Resources/Images/Feature_importance_pie.png)
 
-
+## Drafts of Presentation
+Some preliminary work has been done to create the presentation for this project. Including a Google Slides [document](https://docs.google.com/presentation/d/1xxn2C3Z-MkE-vdw5f6fMtGrpJwCFIwu-_7JIMBB3tTE/edit?usp=sharing) and this Tableau [dashboard](https://public.tableau.com/app/profile/adam.loudon/viz/TEDS_Analysis-Dashboard/Dashboard1?publish=yes).
 
 ## Potential Challenges
 Some potential issues:
