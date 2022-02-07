@@ -7,6 +7,7 @@ We will use this data in order to determine which factors best predict patient o
 
 ## Resources
 [Dataset link](https://www.datafiles.samhsa.gov/dataset/teds-d-2019-ds0001-teds-d-2019-ds0001)
+
 [Codebook link](https://github.com/loudonadam/TEDS_Analysis/blob/scott/Resources/TEDS-D-2019-DS0001-info-codebook_V1.docx)
 
 ## Team Members
@@ -34,6 +35,10 @@ The TARGET column "SUCCESSFUL" is created based on the REASONS column. A SUCCESS
 
 ![Alt Text](Resources/Images/REASON_feature.png)
 
+Dataframe with cleaned data exported to SQL database.
+
+![Alt Text](Resources/Images/cleaned_data_TEDS_DB.png)
+
 ### Initial Neural Network Model
 
 - NN model creation
@@ -53,6 +58,10 @@ The TARGET column "SUCCESSFUL" is created based on the REASONS column. A SUCCESS
 - RF model feature importances
 
 ![Alt Text](Resources/Images/Feature_importance_pie.png)
+
+Export model feature importances to SQL database.
+
+![Alt Text](Resources/Images/RFModel_feature_importance_TEDS_DB.png)
 
 ## Drafts of Presentation
 Some preliminary work has been done to create the presentation for this project. Including a Google Slides [document](https://docs.google.com/presentation/d/1xxn2C3Z-MkE-vdw5f6fMtGrpJwCFIwu-_7JIMBB3tTE/edit?usp=sharing) and this Tableau [dashboard](https://public.tableau.com/app/profile/adam.loudon/viz/TEDS_Analysis-Dashboard/Dashboard1?publish=yes).
