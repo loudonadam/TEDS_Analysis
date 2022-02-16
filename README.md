@@ -18,7 +18,6 @@ Successfully answering question 2 would allow treatment centers to focus more re
 
 ## Resources
 - [Dataset link](https://www.datafiles.samhsa.gov/dataset/teds-d-2019-ds0001-teds-d-2019-ds0001)
-- add other years links
 
 - [Codebook link](https://github.com/loudonadam/TEDS_Analysis/blob/scott/Resources/TEDS-D-2019-DS0001-info-codebook_V1.docx)
 
