@@ -63,8 +63,8 @@ Export model feature importances to SQL database.
 
 ![Alt Text](Resources/Images/RFModel_feature_importance_TEDS_DB.png)
 
-## Drafts of Presentation
-Presentation drafts now include this Google Slides [document](https://docs.google.com/presentation/d/1xxn2C3Z-MkE-vdw5f6fMtGrpJwCFIwu-_7JIMBB3tTE/edit?usp=sharing) and this Tableau [story](https://public.tableau.com/app/profile/adam.loudon/viz/TEDS_Analysis-Dashboard/Presentation) which will be merged into a single presentation.
+## Presentation
+This project's results are best described this this [presentation](https://public.tableau.com/app/profile/adam.loudon/viz/TEDS_Analysis-Dashboard/Presentation?publish=yes).
 
 ## Potential Challenges
 Some potential issues:
